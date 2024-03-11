@@ -1,0 +1,104 @@
+body{
+    background-color: rgb(116, 116, 187);
+}
+p{
+    font-size: 50px;
+    background-color: palegreen;
+}
+.p1{
+    display: inline-block;
+}
+.s1{
+    border: dotted 2px darkblue;
+    display: block;
+}
+#first{
+    width: 500px;
+    height: 500px;
+    background-color: green;
+    border: ridge 20px lawngreen;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-left: dotted pink;
+    border-right: dashed palevioletred;
+    border-bottom: groove purple;
+    border-top: ridge aquamarine;
+    border-width: 20px;
+    margin: 50px;
+    border-radius: 10% 20%;
+
+}
+#second{
+    width: 700px;
+    height: 700px;
+    background-color: lawngreen;
+    border: groove 20px green;
+    font-size: 50px;
+    text-align: center;
+    padding: 50px;
+    border-style: dotted dashed;
+    border-color: aqua blue blueviolet violet;
+    border-radius: 5% 10% 15% 20%;
+}
+#third{
+    width: 800px;
+    height: 200px;
+    border: solid 10px greenyellow;
+    margin: 20px;
+    border-style: groove ridge dotted dashed;
+    background-color: burlywood;
+    border-color: blue;
+    text-align: right;
+    color: darkblue;
+    border-radius: 30px;
+}
+#forth{
+    width: 800px;
+    height: 200px;
+    border: dashed 10px green;
+    margin: 20px;
+    border-style: dashed double ridge solid;
+    border-color: aqua aquamarine blue blueviolet;
+    text-align: left;
+    background-color: purple;
+    color: palevioletred;
+    border-bottom-left-radius: 50px;
+}
+#d5,#d6,#d7,#d8{
+    margin: 200px;
+}
+#d5{
+    border: solid 5px palegreen;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    text-align: center;
+}
+#d6{
+    border: solid 5px palevioletred;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    text-align: center; 
+}
+#d7{
+    border: solid 5px purple;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    text-align: center; 
+}
+#d8{
+    border: solid 5px darkblue;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    text-align: center; 
+}
+
+    
+
+
+   
